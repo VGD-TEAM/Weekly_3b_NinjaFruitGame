@@ -7,7 +7,7 @@ Fruit Ninja is a 2D game inspired by *Fruit Ninja*, where the player slices fall
 ---
 ## Gameplay Demo
 
-[![](https://img.youtube.com/vi/your_video_id/0.jpg)](https://www.youtube.com/watch?v=your_video_id)
+![Gameplay Demo](https://github.com/VGD-TEAM/Weekly_3b_NinjaFruitGame/blob/main/Record_Game.mp4)
 
 ---
 
