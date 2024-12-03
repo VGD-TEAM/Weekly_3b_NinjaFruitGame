@@ -3,6 +3,12 @@
 # ** Ninja Fruit 2D :
 Fruit Ninja is a 2D game inspired by *Fruit Ninja*, where the player slices falling fruits using the mouse to gain points. The game is developed using **Unity** and features physics-based slicing, dynamic graphics, and real-time score management.
 
+
+---
+## Gameplay Demo
+
+[![](https://img.youtube.com/vi/your_video_id/0.jpg)](https://www.youtube.com/watch?v=your_video_id)
+
 ---
 
 ## **Features**
@@ -46,3 +52,26 @@ Fruit Ninja is a 2D game inspired by *Fruit Ninja*, where the player slices fall
 1. Clone or download the project:
    ```bash
    git clone https://github.com/ibrahim3999/Weekly_3b_NinjaFruitGame.git
+   ```
+2.Open Unity Hub and import the project.
+3.Open the main scene (MainScene).
+4.Press Play to start the game.
+
+## **Ideas for Improvement** ##
+1.Add different difficulty levels.
+2.Introduce vegetables or special items with unique rules (e.g., subtracting points).
+3.Implement a timer or time-based challenges.
+4.Add animations and sound effects for a more immersive experience.
+
+## **Contributors** ##
+[ibrahim] - Development, graphics, and programming.
+
+
+### **How to Use**
+1. Create a file named `README.md` in the root folder of your project.
+2. Copy and paste the text above into the file.
+3. Save the file and push it to your GitHub repository.
+
+Let me know if you want help with customizing it further! 😊
+
+   
